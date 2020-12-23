@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CameraCollector.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-m search -c foscam -t 20 -p 80,8090 -P 5 -n US -O -l \"D:\\Desktop\\12222020.txt\""
+    }
+  }
+}
